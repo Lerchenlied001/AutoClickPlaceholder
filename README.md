@@ -1,0 +1,2 @@
+# AutoClickPlaceholder
+AutoClicker Component
